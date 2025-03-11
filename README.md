@@ -29,7 +29,7 @@ The UK Food Standards Agency evaluates food establishments and assigns hygiene r
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/nosql-challenge.git
+git clone https://github.com/Sharkb8t/nosql-challenge.git
 cd nosql-challenge
 ```
 
